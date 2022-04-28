@@ -1,3 +1,1 @@
-**#StandWithUkraine**
-
-![image](1920x810.jpeg)
+**Software Development Engineer at @adobe :: Bug Bounty Hunter, CTF player**
