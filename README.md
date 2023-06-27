@@ -2,8 +2,6 @@
 
 
 
-***Programming joke for you... :)***
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
