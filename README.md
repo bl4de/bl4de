@@ -9,9 +9,6 @@
 <br/>
 <br/>
 
-### Sometimes I worry that AI will take all of our jobs. Today is not one of those days
-*Kai Lentit (https://youtu.be/cwq2FfpTIAE?t=111)*
-
 
 
 ### Talk is cheap. Show me the code.
