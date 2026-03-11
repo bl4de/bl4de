@@ -2,15 +2,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
