@@ -1,4 +1,4 @@
-**Software Engineer at @adobe :: Bug Bounty Hunter :: CTF player**
+**Software Engineer at @adobe :: Bug Bounty Hunter**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
